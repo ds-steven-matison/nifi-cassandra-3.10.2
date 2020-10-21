@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Build-Timestamp: 2020-09-23T14:16:37Z
+Archiver-Version: Plexus Archiver
+Nar-Dependency-Group: org.apache.nifi
+Built-By: jwitt
+Nar-Id: nifi-cassandra-services-nar
+Clone-During-Instance-Class-Loading: false
+Nar-Dependency-Version: 1.12.1
+Nar-Version: 1.12.1
+Build-Tag: nifi-1.12.1-RC2
+Nar-Group: org.apache.nifi
+Nar-Dependency-Id: nifi-cassandra-services-api-nar
+Created-By: Apache Maven 3.6.3
+Build-Jdk: 1.8.0_265
+
