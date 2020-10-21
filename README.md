@@ -4,8 +4,8 @@
 In order to connect NiFi to Astra with Native NiFi Cassandra Drivers (PutCassandraQL, PutCassandraRecord, QueryCassandra) we must update the cassandra driver core from 3.3.0 to 3.10.2.  This is easily done by unpacking the source nar files, adjusting the dependencies to include the new cassandra driver core, and rebuilding the nar.  Follow the instructions below to update NiFi drivers.
 
 # In This Repo
-- Original driver NARs
-- Updated drivers NARs
+- Original NiFi 1.12.1 Cassandra NARs
+- Updated NiFi 1.12.1 Cassandra NARs
 - META-INF source folder for each NAR
 
 # Important Differences
